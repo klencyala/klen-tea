@@ -1,0 +1,23 @@
+{
+  "name": "klen-tea",
+  "version": "1.0.0",
+  "description": "Klen tea project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klencyala/klen-tea.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "1.0.0",
+    "tea-dogs": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klencyala/klen-tea/issues"
+  },
+  "homepage": "https://github.com/klencyala/klen-tea#readme"
+}
