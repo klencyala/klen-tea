@@ -3,7 +3,6 @@ class KlenTea {
       this.teaType = teaType;
       this.isBrewed = false;
     }
-  
     brew() {
       console.log(`Brewing a cup of ${this.teaType} klen tea using the secret klen method.`);
       setTimeout(() => {
